@@ -1,0 +1,4 @@
+name: BlockRewards
+version: ${project.version}
+main: me.joshscoper.blockrewards.Main
+api-version: 1.19
